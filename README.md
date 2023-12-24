@@ -43,6 +43,3 @@
   <img src="https://img.icons8.com/color/48/intellij-idea.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
-
-## Activities:
-# Certificates:
