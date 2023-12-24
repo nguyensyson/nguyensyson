@@ -30,11 +30,17 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://icons8.com/icon/13679/java"/>
-  <img src="https://icons8.com/icon/90519/spring-boot"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png"/>
+  <img src="https://img.icons8.com/color/48/java-web-token.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/48/bootstrap--v2.png"/>
+  <img src="https://img.icons8.com/color/48/docker.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/intellij-idea.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
