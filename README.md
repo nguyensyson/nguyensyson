@@ -33,8 +33,8 @@
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/spring-logo.png"/>
   <img src="https://img.icons8.com/color/48/java-web-token.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/fluency/48/vuejs.png"/>
   <img src="https://img.icons8.com/color/48/bootstrap--v2.png"/>
   <img src="https://img.icons8.com/color/48/docker.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
