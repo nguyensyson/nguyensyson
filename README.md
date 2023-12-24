@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="400" src="https://www.flaticon.com/free-animated-icon/virus_6569146?related_id=6569146">
 <h1 align="center">Hi 👋, I'm Sy Son</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
