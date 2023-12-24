@@ -3,8 +3,6 @@
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
-
-
 - ✍ I'm a fresher software developer
 
 <br />
